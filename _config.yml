@@ -1,7 +1,7 @@
 title: My Portfolio
 name: Lauren Papineau
 email: laurenpapineau04@gmail.com
-baseurl: "/2025-design-potfolio"
+baseurl: "/laurenpapineau/"
 
 collections:
   design:
